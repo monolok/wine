@@ -25,3 +25,8 @@ transfer:
   settings: -av
   source: _site/
   destination: ~/Git/clayh53.github.com/
+collections:
+  tests:
+    output: true
+    permalink: /:collection/:path/
+    title: tests
