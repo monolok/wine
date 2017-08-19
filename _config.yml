@@ -1,9 +1,8 @@
 baseurl:
-title: Tufte-Jekyll
-subtitle: Content-centric blogging
+title: The Wine Cell
+subtitle: Wine knowledge
 author: antoine bertin
-simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
+description: Get the must have wine knowledge
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"

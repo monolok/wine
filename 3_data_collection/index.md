@@ -3,7 +3,8 @@ layout: full-width
 title: Data collection
 ---
 
-Comming: A collection of all our written articles and "must have knowledge" organized geographically.
+<p>Coming: </p>
+<p>A collection of all our written articles and "must have knowledge" organized geographically.</p>
 
 <!-- <ul class="content-listing ">
     <li>
