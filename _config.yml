@@ -1,8 +1,8 @@
-baseurl:
+baseurl: winecell.org
 title: The Wine Cell
 subtitle: Wine knowledge
 author: antoine bertin
-description: Get the must have wine knowledge
+description: Free tools for a stong wine game | Make the word a better place one sip at a time
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
