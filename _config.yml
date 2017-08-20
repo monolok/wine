@@ -6,7 +6,7 @@ description: Get the must have wine knowledge
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-permalink: /articles/:short_year/:title
+permalink: /blog/:title
 timezone: America/New_York
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
@@ -27,5 +27,5 @@ editor: gvim
 collections:
   tests:
     output: true
-    permalink: /:collection/:path/
+    permalink: /data/:title #/:collection/:path/
     title: tests

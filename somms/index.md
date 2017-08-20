@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Our E-somms
+title: E-somms
 ---
 
 Contributor 1: Working on it ;-)

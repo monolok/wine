@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Data collection
+title: Data
 ---
 
 <p>Coming: </p>
