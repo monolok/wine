@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Wine blog
+title: Blog
 # Note that this index page uses a full-width layout!
 ---
 
