@@ -10,7 +10,7 @@ tag: classification
 </blockquote>
 
 <div class="text-center">
-	<h2>Where from ?</h2>
+	<h2>What DOCG it belongs to ?</h2>
 	<strong class="text-primary"><u> Bonus practice:</u> guess major grapes.</strong>
 	<h4 class="text-danger" id="bdx">Wine</h4>
 	<h4 class="text-success" id="bdx_answer">Answer</h4>
