@@ -24,10 +24,8 @@ tag: 1855 classification growth
 <table class="table table-condensed hide" id="study_table">
 	<thead>
 		<tr> 
-			<th>#</th>
-			<th>First Name</th>
-			<th>Last Name</th>
-			<th>Username</th>
+			<th>Château</th>
+			<th>Growth</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -41,8 +39,10 @@ tag: 1855 classification growth
 	var chateaux_answers = ["1st, Pessac", "1st, Pauillac", "1st, Pauillac", "1st, Margaux", "1st, Pauillac", "2nd, Margaux", "2nd, Margaux", "2nd, Saint-Julien", "2nd, Saint-Julien", "2nd, Saint-Julien", "2nd, Margaux", "2nd, Saint-Julien", "2nd, Margaux", "2nd, Margaux", "2nd, Pauillac", "2nd, Pauillac", "2nd, Saint-Julien", "2nd, Saint-Estephe", "2nd, Saint-Estephe", "3rd, Margaux", "3rd, Margaux", "3rd, Saint-Julien", "3rd, Saint-Julien", "3rd, Margaux", "3rd, Margaux", "3rd, Margaux", "3rd, Margaux", "3rd, Margaux", "3rd, Haut-Médoc", "3rd, Margaux", "3rd, Saint-Estephe", "3rd, Margaux", "3rd, Margaux", "4th, Saint-Julien", "4th, Saint-Julien", "4th, Saint-Julien", "4th, Pauillac", "4th, Margaux", "4th, Haut-Médoc", "4th, Saint-Estephe", "4th, Saint-Julien", "4th, Margaux", "4th, Margaux", "5th, Pauillac", "5th, Pauillac", "5th, Pauillac", "5th, Pauillac", "5th, Pauillac", "5th, Pauillac", "5th, Pauillac", "5th, Margaux", "5th, Pauillac", "5th, Margaux", "5th, Pauillac", "5th, Pauillac", "5th, Haut-Médoc", "5th, Haut-Médoc", "5th, Saint-Estephe", "5th, Pauillac", "5th, Pauillac", "5th, Haut-Médoc"];
 
 	// generating study table
+	var counter = 0
 	for (var i = chateaux.length - 1; i >= 0; i--) {
-		$("tbody").append("<tr><td>" + chateaux[i] + "</td><td>" + chateaux_answers[i] + "</td></tr>");
+		$("tbody").append("<tr><td>" + chateaux[counter] + "</td><td>" + chateaux_answers[counter] + "</td></tr>");
+		counter++
 	};
 
 	//clicking JS logic
