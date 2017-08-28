@@ -10,10 +10,10 @@ tag: classification
 </blockquote>
 
 <div class="text-center">
-	<h2>What DOCG it belongs to ?</h2>
+	<h2>DOCG: Subregion it belongs to ?</h2>
 	<strong class="text-primary"><u> Bonus practice:</u> guess major grapes.</strong>
-	<h4 class="text-danger" id="bdx">Wine</h4>
-	<h4 class="text-success" id="bdx_answer">Answer</h4>
+	<h4 class="text-danger" id="bdx">DOCG</h4>
+	<h4 class="text-success" id="bdx_answer">Subregion</h4>
 	<button type="button" class="btn btn-success" id="test_me">Next</button>
 	<button type="button" class="btn btn-danger" id="answer">Answer</button>
 	<button type="button" class="btn btn-primary" id="study">Study</button>

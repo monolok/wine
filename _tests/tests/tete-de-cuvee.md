@@ -10,7 +10,7 @@ tag: prestige échelle
 </blockquote>
 
 <div class="text-center">
-	<h2>Tête de Cuvée is ?</h2>
+	<h2>Tête de Cuvée is/are ?</h2>
 	<strong class="text-primary"><u> Bonus practice: spot the "RM" producers.</u> </strong>
 	<h4 class="text-danger" id="bdx">Champagne</h4>
 	<h4 class="text-success" id="bdx_answer">Tête de Cuvée</h4>
