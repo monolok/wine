@@ -1,11 +1,11 @@
----
+<!-- ---
 layout: full-width
 title: Blog
 # Note that this index page uses a full-width layout!
 ---
-
+ -->
 <!--   <h1 class="content-listing-header sans">Articles</h1> -->
-  <ul class="content-listing ">
+<!--   <ul class="content-listing ">
     {% for post in site.posts %}      
         <li class="listing">
           <hr class="slender">
@@ -14,4 +14,4 @@ title: Blog
           <div>{{ post.excerpt }}</div> 
         </li>
     {% endfor %}
-  </ul>
+  </ul> -->

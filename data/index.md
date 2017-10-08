@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: full-width
 title: Data
 ---
@@ -8,7 +8,7 @@ title: Data
   <li><i class="fa fa-cog fa-spin fa-3x fa-fw" aria-hidden="true"></i></li>
 </ul>
 
-<p>A collection of all our written articles, flights and "knowledge pratice" organized by wine regions.</p>
+<p>A collection of all our written articles, flights and "knowledge pratice" organized by wine regions.</p> -->
 
 <!-- <ul class="content-listing ">
     <li>

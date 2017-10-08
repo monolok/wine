@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: full-width
 title: Flights
 ---
@@ -9,3 +9,4 @@ title: Flights
 </ul>
 
 <p>A collection of all our wine flights and tasting notes...</p>
+ -->
